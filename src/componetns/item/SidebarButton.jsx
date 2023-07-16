@@ -14,9 +14,9 @@ const SidebarButton = (porps) => {
     <>
       <Link to={porps.to}>
       <div className={btnClass} >
-      <IconContext.Provider value={{ size: "24px", className: "btn-icon" }}>
+      <IconContext.Provider value={{ size: "20px", className: "btn-icon" }}>
       {porps.icon}
-      <p className="m-[4px auto] font-medium text-base">{porps.title}</p>
+      <p className="m-[4px auto] font-medium text-base hidden md:block">{porps.title}</p>
       </IconContext.Provider>
       </div>
         

@@ -33,6 +33,23 @@ code {
   transition: all 0.2s ease;
   background-color: rgba(30, 42, 62, 0);
 }
+@media (max-width: 768px) {
+  .btn-body {
+    height: 60px;
+    width: 60px;
+    border-radius: 15px;
+    
+  }
+}
+
+@media (max-width: 576px) {
+  .btn-body {
+    height: 40px;
+    width: 40px;
+    border-radius: 10px;
+    
+  }
+}
 
 .btn-body.active {
   background-color: rgb(30, 42, 62);
