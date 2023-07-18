@@ -6,6 +6,6 @@ The app provides a user-friendly interface for discovering and playing music tra
 This is just a Previw of a song you can only LIsten to 30 secnods of music for free SpotifyAPI
 
 
-I Build this web app for Learing purpose and this may Lack in respoonsivness . 
+I Build this web app for Learing purpose and this may Lack in responsivness . 
 
 Thank you.
